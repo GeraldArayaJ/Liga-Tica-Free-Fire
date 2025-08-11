@@ -97,7 +97,7 @@ header {
     border-radius: 5px;
 }
 
-.nav-list button:hover {
+.nav-list a:hover {
     background: #ffcc00;
     color: black;
     border-color: #ffcc00;
@@ -253,4 +253,5 @@ footer a:hover {
     height: 24px;
   }
 }
+
 
